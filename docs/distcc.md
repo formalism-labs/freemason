@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="distcc.png" alt="Logo" width="300" height="300" />
+  <img src="distcc.png" alt="Logo" height="200" />
 </p>
 <h1 align="center">Distcc</h1>
 <h2 align="center">with Freemason variations</h2>

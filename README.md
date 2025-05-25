@@ -19,7 +19,7 @@ It also assumes source code to be present on shared volumes which are consistent
 * [Technical review](https://formalism-labs.github.io/freemason.docs/design/freemason-tech-review.pdf)
 
 ### Components
-* [GNU make](https://bitbucket.org/raffapen/freemason.make/src/f7n-1/)
-* Perl
-* [Distcc](https://github.com/formalism-labs/distcc)
+* [GNU make](docs/gnu-make.md)
+* Perl 5
+* [Distcc](docs/distcc.md)
 * [Documentation repo](https://github.com/formalism-labs/freemason.docs)
